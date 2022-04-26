@@ -1,3 +1,3 @@
-# Yu_Guo_hw2
+# Yu_Guo_jsPart
 
 Practice some methods, may combined them together
